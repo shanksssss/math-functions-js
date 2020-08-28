@@ -1,3 +1,5 @@
+// MATH FEATURE
+
 // multiple feature
 const multiply = (x, y) => x * y;
 
