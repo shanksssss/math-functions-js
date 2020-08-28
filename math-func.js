@@ -1,7 +1,9 @@
 // MATH FEATURE
 
-// multiple feature
-const multiply = (x, y) => x * y;
+// multiple feature with brackets on function
+const multiply = (x, y) => {
+  return x * y
+};
 
 // addition feature with brackets on function
 const addition = (x, y) => {
